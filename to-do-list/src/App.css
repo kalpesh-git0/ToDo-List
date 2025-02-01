@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.mainDiv{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  padding: 10px;
+  height: 88vh;
+  width: 80vw;
+  background-color: rgb(61, 65, 69);
+}
+
+#titleOne{
+  color: white;
+  font-size: 3em;
+  margin-bottom: 10px;
+}
